@@ -1,2 +1,2 @@
 Link to game:
-https://fed21-battleships-client.netlify.app/
+https://battleship-game-w76k.onrender.com

@@ -8,7 +8,6 @@ import useSound from "use-sound";
 // import underTheSea from "../assets/sounds/underTheSea.mp3";
 import loginScreen from "../assets/sounds/loginScreen.wav";
 import "../assets/css/login.css";
-// import { wait } from "@testing-library/user-event/dist/utils";
 
 const Login = () => {
 	const [loginScreenSound, { stop }] = useSound(loginScreen);
